@@ -9,7 +9,7 @@ const JsxExamples = () => {
         {id:1, name: "Rodrigo"},
         {id:2, name: "Marina"},
         {id:3, name: "Pedro"},
-        {id:4, name: "João"},
+        {id:4, name: "João Ribeiro"},
       
     ];
 
